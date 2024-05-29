@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/repo/buddika_test_docker" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/repo/java-test-service" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/repo/test-dilshan" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/repo/test-dilshan-12" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/repo/test-dilshan-14" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/repo/test-dilshan-15" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/repo/test-lahiru" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/repo/test-service" vcs="Git" />
+  </component>
+</project>
